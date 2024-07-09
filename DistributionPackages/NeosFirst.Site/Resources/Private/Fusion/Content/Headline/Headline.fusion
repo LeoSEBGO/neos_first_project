@@ -1,4 +1,4 @@
-prototype(NeosFirst.Site:Content.Headline) < prototype(Neos.Neos:ContentComponent) {
+prototype(neosfirst.Site:Content.Headline) < prototype(Neos.Neos:ContentComponent) {
     title = Neos.Neos:Editable {
         property = 'title'
     }

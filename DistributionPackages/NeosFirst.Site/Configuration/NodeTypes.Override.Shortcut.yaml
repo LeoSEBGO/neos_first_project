@@ -2,4 +2,4 @@
 'Neos.Neos:Shortcut':
   constraints:
     nodeTypes:
-      'NeosFirst.Site:Constraint.Document.Restricted': false
+      'neosfirst.Site:Constraint.Document.Restricted': false

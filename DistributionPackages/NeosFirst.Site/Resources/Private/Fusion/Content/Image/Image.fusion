@@ -1,10 +1,10 @@
 /**
  * This code is feasable for production, and renders an image with LazyBones.
  *
- * To better learn Neos take a look at NeosFirst.Site:Content.BasicImage,
+ * To better learn Neos take a look at neosfirst.Site:Content.BasicImage,
  * which renders our images as an img tag.
  */
-prototype(NeosFirst.Site:Content.Image) < prototype(Neos.Neos:ContentComponent) {
+prototype(neosfirst.Site:Content.Image) < prototype(Neos.Neos:ContentComponent) {
 
     # if the current node has previous siblings it is not the
 	# first content and should be loaded lazy otherwise not

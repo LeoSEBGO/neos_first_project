@@ -1,4 +1,4 @@
-prototype(NeosFirst.Site:Component.Footer) < prototype(Neos.Fusion:Component) {
+prototype(neosfirst.Site:Component.Footer) < prototype(Neos.Fusion:Component) {
     year = ${Date.format(Date.now(), 'Y')}
     footerInfo = Neos.Neos:Editable {
         node = ${site}

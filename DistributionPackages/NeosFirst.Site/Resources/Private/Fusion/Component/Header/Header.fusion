@@ -1,4 +1,4 @@
-prototype(NeosFirst.Site:Component.Header) < prototype(Neos.Fusion:Component) {
+prototype(neosfirst.Site:Component.Header) < prototype(Neos.Fusion:Component) {
     homeLink = Neos.Neos:NodeUri {
         node = ${site}
     }
@@ -22,7 +22,7 @@ prototype(NeosFirst.Site:Component.Header) < prototype(Neos.Fusion:Component) {
     renderer = afx`
         <header class="main-header">
             <a class="logo" href={props.homeLink}>BRAND NAME</a>
-            <NeosFirst.Site:Component.Header.MenuItemsRenderer items={props.menuItems} />
+            <neosfirst.Site:Component.Header.MenuItemsRenderer items={props.menuItems} />
         </header>
     `
 

@@ -9,7 +9,7 @@
         }
     },
     "require": {
-        "NeosFirst/site": "@dev"
+        "neosfirst/site": "@dev"
     },
     "repositories": {
         "distribution": {

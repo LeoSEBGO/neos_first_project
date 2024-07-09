@@ -1,4 +1,4 @@
-'NeosFirst.Site:Mixin.InspectorGeneral':
+'neosfirst.Site:Mixin.InspectorGeneral':
   abstract: true
   ui:
     inspector:

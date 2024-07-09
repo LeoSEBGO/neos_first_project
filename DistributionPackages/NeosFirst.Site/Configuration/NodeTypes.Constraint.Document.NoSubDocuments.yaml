@@ -1,4 +1,4 @@
-'NeosFirst.Site:Constraint.Document.NoSubDocuments':
+'neosfirst.Site:Constraint.Document.NoSubDocuments':
   abstract: true
   constraints:
     nodeTypes:

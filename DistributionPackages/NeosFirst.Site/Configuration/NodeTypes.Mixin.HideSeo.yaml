@@ -1,4 +1,4 @@
-'NeosFirst.Site:Mixin.HideSeo':
+'neosfirst.Site:Mixin.HideSeo':
   abstract: true
   superTypes:
     'Neos.Seo:TitleTagMixin': false

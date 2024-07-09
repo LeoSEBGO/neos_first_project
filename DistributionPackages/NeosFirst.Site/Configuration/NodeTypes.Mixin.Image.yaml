@@ -12,7 +12,7 @@
 # these properties as a header. Each document NodeType which supports a header
 # get's the mixin and renders the matching Fusion component.
 ##
-'NeosFirst.Site:Mixin.Image':
+'neosfirst.Site:Mixin.Image':
   abstract: true
   ui:
     inspector:

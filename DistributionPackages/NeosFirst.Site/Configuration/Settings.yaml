@@ -20,7 +20,7 @@ Neos:
           loadingDepth: 2
     fusion:
       autoInclude:
-        NeosFirst.Site: true
+        neosfirst.Site: true
     # nodeTypes:
     #   groups:
     #     contentBlocks:

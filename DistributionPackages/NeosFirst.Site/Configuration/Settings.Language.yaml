@@ -28,5 +28,5 @@ Neos:
       defaultLanguage: en
       translation:
         autoInclude:
-          NeosFirst.Site:
+          neosfirst.Site:
             - 'NodeTypes/*'

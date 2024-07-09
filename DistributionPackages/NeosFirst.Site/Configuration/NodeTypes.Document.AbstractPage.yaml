@@ -1,4 +1,4 @@
-'NeosFirst.Site:Document.AbstractPage':
+'neosfirst.Site:Document.AbstractPage':
   abstract: true
   superTypes:
     'Neos.Neos:Document': true
@@ -7,7 +7,7 @@
       type: 'Neos.Neos:ContentCollection'
       constraints:
         nodeTypes:
-          'NeosFirst.Site:Constraint.Content.Restricted': false
+          'neosfirst.Site:Constraint.Content.Restricted': false
   constraints:
     nodeTypes:
-      'NeosFirst.Site:Constraint.Document.Restricted': false
+      'neosfirst.Site:Constraint.Document.Restricted': false

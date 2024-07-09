@@ -4,13 +4,13 @@
 #
 # Example usage:
 # ```
-# buttonText = NeosFirst.Site:Editable {
+# buttonText = neosfirst.Site:Editable {
 #     property = 'buttonText'
 #     fallback = 'Read more'
 # }
 # ```
 ##
-prototype(NeosFirst.Site:Editable) < prototype(Neos.Neos:Editable) {
+prototype(neosfirst.Site:Editable) < prototype(Neos.Neos:Editable) {
     fallback = ''
 
     // fallback implementation

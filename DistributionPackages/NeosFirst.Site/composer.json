@@ -24,7 +24,7 @@
     },
     "extra": {
         "neos": {
-            "package-key": "NeosFirst.Site"
+            "package-key": "neosfirst.Site"
         },
         "applied-flow-migrations": [
             "TYPO3.FLOW3-201201261636",

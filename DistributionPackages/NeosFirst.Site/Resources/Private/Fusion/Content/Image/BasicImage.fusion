@@ -1,11 +1,11 @@
 /**
  * This Basic example shows how you can render a image tag
  * on your own. For production we recommend to use LazyBones,
- * as shown in NeosFirst.Site:Content.Image.
+ * as shown in neosfirst.Site:Content.Image.
  *
  * This fusion prototype is currently not used and just an example.
  */
-prototype(NeosFirst.Site:Content.BasicImage) < prototype(Neos.Neos:ContentComponent) {
+prototype(neosfirst.Site:Content.BasicImage) < prototype(Neos.Neos:ContentComponent) {
     src = Neos.Fusion:Case {
         image {
             condition = ${q(node).property('image') ? true : false}

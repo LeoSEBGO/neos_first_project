@@ -1,9 +1,9 @@
 
-'NeosFirst.Site:Document.HomePage':
+'neosfirst.Site:Document.HomePage':
   superTypes:
-    'NeosFirst.Site:Document.AbstractPage': true
-    'NeosFirst.Site:Constraint.Document.Restricted': true
-    'NeosFirst.Site:Mixin.InspectorGeneral': true
+    'neosfirst.Site:Document.AbstractPage': true
+    'neosfirst.Site:Constraint.Document.Restricted': true
+    'neosfirst.Site:Mixin.InspectorGeneral': true
   ui:
     label: i18n
     icon: globe

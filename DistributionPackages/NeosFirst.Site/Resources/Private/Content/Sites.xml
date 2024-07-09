@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
- <site name="Site" state="1" siteResourcesPackageKey="NeosFirst.Site" siteNodeName="site">
+ <site name="Site" state="1" siteResourcesPackageKey="neosfirst.Site" siteNodeName="site">
   <nodes formatVersion="2.0">
    <node identifier="f676459d-ca77-44bc-aeea-44114814c279" nodeName="site">
-    <variant sortingIndex="100" workspace="live" nodeType="NeosFirst.Site:Document.HomePage" version="1" removed="" hidden="" hiddenInIndex="">
+    <variant sortingIndex="100" workspace="live" nodeType="neosfirst.Site:Document.HomePage" version="1" removed="" hidden="" hiddenInIndex="">
      <dimensions/>
      <accessRoles __type="array"/>
      <creationDateTime __type="object" __classname="DateTime">2018-06-26T23:20:17+02:00</creationDateTime>

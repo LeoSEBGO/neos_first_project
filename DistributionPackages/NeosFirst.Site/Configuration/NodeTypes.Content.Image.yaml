@@ -1,7 +1,7 @@
-'NeosFirst.Site:Content.Image':
+'neosfirst.Site:Content.Image':
   superTypes:
     'Neos.Neos:Content': true
-    'NeosFirst.Site:Mixin.Image': true
+    'neosfirst.Site:Mixin.Image': true
   ui:
     label: Image
     icon: picture

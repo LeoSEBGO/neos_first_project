@@ -5,6 +5,6 @@ error {
     4xx {
 		@position = 'start'
         condition = ${statusCode >= 400 && statusCode < 500}
-        renderer = NeosFirst.Site:Document.NotFoundPage
+        renderer = neosfirst.Site:Document.NotFoundPage
     }
 }

@@ -1,4 +1,4 @@
-prototype(NeosFirst.Site:Component.Header.MenuItemsRenderer) < prototype(Neos.Fusion:Component) {
+prototype(neosfirst.Site:Component.Header.MenuItemsRenderer) < prototype(Neos.Fusion:Component) {
     items = false
 
     @if.has = ${this.items}
@@ -13,7 +13,7 @@ prototype(NeosFirst.Site:Component.Header.MenuItemsRenderer) < prototype(Neos.Fu
                         { menuItem.label }
                     </Carbon.Link:Link>
 
-                    <NeosFirst.Site:Component.Header.MenuItemsRenderer
+                    <neosfirst.Site:Component.Header.MenuItemsRenderer
                         items={menuItem.subItems}
                         />
                 </li>

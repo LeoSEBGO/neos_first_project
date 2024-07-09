@@ -1,4 +1,4 @@
-'NeosFirst.Site:Content.Headline':
+'neosfirst.Site:Content.Headline':
   superTypes:
     'Neos.Neos:Content': true
   ui:
